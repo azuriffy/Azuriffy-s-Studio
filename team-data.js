@@ -15,7 +15,7 @@ window.TEAM = [
     role: "Founder & Creator",
     rank: "owner",
     bio: "Founder of Azuriffy's Studio. Makes the scripted Minecraft videos and built the Discord bot and this website.",
-    photo: "team/azuriffy.jpg",
+    photo: "team/azuriffy.png",
     links: { youtube: "https://www.youtube.com/@azuriffy" }
   }
 
